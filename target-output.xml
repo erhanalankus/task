@@ -1,0 +1,124 @@
+<orders>
+    <order>
+        <orderNumber>ORD001</orderNumber>
+        <consignments>
+            <consignment>
+                <consignmentNumber>CON001</consignmentNumber>
+                <consigneeName>Bob Berg</consigneeName>
+                <address1>10 Baker Street</address1>
+                <address2>Peckham</address2>
+                <city>London</city>
+                <state></state>
+                <countryCode>GB</countryCode>
+                <parcels>
+                    <parcel>
+                        <parcelCode>PARC001</parcelCode>
+                        <parcelItem>
+                            <itemQuantity>1</itemQuantity>
+                            <itemValue>1.1</itemValue>
+                            <itemWeight>0.004</itemWeight>
+                            <itemDescription>Pen</itemDescription>
+                            <itemCurrency>GBP</itemCurrency>
+                        </parcelItem>
+                    </parcel>
+                    <parcel>
+                        <parcelCode>PARC002</parcelCode>
+                        <parcelItem>
+                            <itemQuantity>2</itemQuantity>
+                            <itemValue>3.4</itemValue>
+                            <itemWeight>0.3</itemWeight>
+                            <itemDescription>Pencil Case</itemDescription>
+                            <itemCurrency>GBP</itemCurrency>
+                        </parcelItem>
+                    </parcel>
+                </parcels>
+            </consignment>
+        </consignments>
+        <totalValue>4.5</totalValue>
+        <totalWeight>0.304</totalWeight>
+    </order>
+    <order>
+        <orderNumber>ORD002</orderNumber>
+        <consignments>
+            <consignment>
+                <consignmentNumber>CON002</consignmentNumber>
+                <consigneeName>Frank Berg</consigneeName>
+                <address1>10 Baker Street</address1>
+                <address2>Peckham</address2>
+                <city>London</city>
+                <state></state>
+                <countryCode>GB</countryCode>
+                <parcels>
+                    <parcel>
+                        <parcelCode>PARC003</parcelCode>
+                        <parcelItem>
+                            <itemQuantity>1</itemQuantity>
+                            <itemValue>8</itemValue>
+                            <itemWeight>0.5</itemWeight>
+                            <itemDescription>Socks</itemDescription>
+                            <itemCurrency>GBP</itemCurrency>
+                        </parcelItem>
+                    </parcel>
+                </parcels>
+            </consignment>
+        </consignments>
+        <totalValue>8</totalValue>
+        <totalWeight>0.5</totalWeight>
+    </order>
+    <order>
+        <orderNumber>ORD003</orderNumber>
+        <consignments>
+            <consignment>
+                <consignmentNumber>CON003</consignmentNumber>
+                <consigneeName>Cameron</consigneeName>
+                <address1>10 Downing St</address1>
+                <address2>Brixton</address2>
+                <city></city>
+                <state>London</state>
+                <countryCode>GB</countryCode>
+                <parcels>
+                    <parcel>
+                        <parcelCode>PARC004</parcelCode>
+                        <parcelItem>
+                            <itemQuantity>1</itemQuantity>
+                            <itemValue>80</itemValue>
+                            <itemWeight>1.9</itemWeight>
+                            <itemDescription>Pen</itemDescription>
+                            <itemCurrency>GBP</itemCurrency>
+                        </parcelItem>
+                    </parcel>
+                </parcels>
+            </consignment>
+        </consignments>
+        <totalValue>80</totalValue>
+        <totalWeight>1.9</totalWeight>
+    </order>
+    <order>
+        <orderNumber>ORD004</orderNumber>
+        <consignments>
+            <consignment>
+                <consignmentNumber>CON004</consignmentNumber>
+                <consigneeName>Luigi Da Vinci</consigneeName>
+                <address1>Casa di Bolos</address1>
+                <address2>Dulce Av.</address2>
+                <city>Milano</city>
+                <state></state>
+                <countryCode>IT</countryCode>
+                <parcels>
+                    <parcel>
+                        <parcelCode>PARC005</parcelCode>
+                        <parcelItem>
+                            <itemQuantity>1</itemQuantity>
+                            <itemValue>80</itemValue>
+                            <itemWeight>1.9</itemWeight>
+                            <itemDescription>Stilos Roj¢</itemDescription>
+                            <itemCurrency>EUR</itemCurrency>
+                        </parcelItem>
+                    </parcel>
+                </parcels>
+            </consignment>
+        </consignments>
+        <totalValue>80</totalValue>
+        <totalWeight>1.9</totalWeight>
+    </order>
+</orders>

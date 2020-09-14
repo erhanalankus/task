@@ -13,23 +13,27 @@
                 <parcels>
                     <parcel>
                         <parcelCode>PARC001</parcelCode>
-                        <parcelItem>
-                            <itemQuantity>1</itemQuantity>
-                            <itemValue>1.1</itemValue>
-                            <itemWeight>0.004</itemWeight>
-                            <itemDescription>Pen</itemDescription>
-                            <itemCurrency>GBP</itemCurrency>
-                        </parcelItem>
+                        <parcelItems>
+                            <parcelItem>
+                                <itemQuantity>1</itemQuantity>
+                                <itemValue>1.1</itemValue>
+                                <itemWeight>0.004</itemWeight>
+                                <itemDescription>Pen</itemDescription>
+                                <itemCurrency>GBP</itemCurrency>
+                            </parcelItem>
+                        </parcelItems>
                     </parcel>
                     <parcel>
                         <parcelCode>PARC002</parcelCode>
-                        <parcelItem>
-                            <itemQuantity>2</itemQuantity>
-                            <itemValue>3.4</itemValue>
-                            <itemWeight>0.3</itemWeight>
-                            <itemDescription>Pencil Case</itemDescription>
-                            <itemCurrency>GBP</itemCurrency>
-                        </parcelItem>
+                        <parcelItems>
+                            <parcelItem>
+                                <itemQuantity>2</itemQuantity>
+                                <itemValue>3.4</itemValue>
+                                <itemWeight>0.3</itemWeight>
+                                <itemDescription>Pencil Case</itemDescription>
+                                <itemCurrency>GBP</itemCurrency>
+                            </parcelItem>
+                        </parcelItems>
                     </parcel>
                 </parcels>
             </consignment>
@@ -51,13 +55,15 @@
                 <parcels>
                     <parcel>
                         <parcelCode>PARC003</parcelCode>
-                        <parcelItem>
-                            <itemQuantity>1</itemQuantity>
-                            <itemValue>8</itemValue>
-                            <itemWeight>0.5</itemWeight>
-                            <itemDescription>Socks</itemDescription>
-                            <itemCurrency>GBP</itemCurrency>
-                        </parcelItem>
+                        <parcelItems>
+                            <parcelItem>
+                                <itemQuantity>1</itemQuantity>
+                                <itemValue>8</itemValue>
+                                <itemWeight>0.5</itemWeight>
+                                <itemDescription>Socks</itemDescription>
+                                <itemCurrency>GBP</itemCurrency>
+                            </parcelItem>
+                        </parcelItems>
                     </parcel>
                 </parcels>
             </consignment>
@@ -79,13 +85,15 @@
                 <parcels>
                     <parcel>
                         <parcelCode>PARC004</parcelCode>
-                        <parcelItem>
-                            <itemQuantity>1</itemQuantity>
-                            <itemValue>80</itemValue>
-                            <itemWeight>1.9</itemWeight>
-                            <itemDescription>Pen</itemDescription>
-                            <itemCurrency>GBP</itemCurrency>
-                        </parcelItem>
+                        <parcelItems>
+                            <parcelItem>
+                                <itemQuantity>1</itemQuantity>
+                                <itemValue>80</itemValue>
+                                <itemWeight>1.9</itemWeight>
+                                <itemDescription>Pen</itemDescription>
+                                <itemCurrency>GBP</itemCurrency>
+                            </parcelItem>
+                        </parcelItems>
                     </parcel>
                 </parcels>
             </consignment>
@@ -107,13 +115,15 @@
                 <parcels>
                     <parcel>
                         <parcelCode>PARC005</parcelCode>
-                        <parcelItem>
-                            <itemQuantity>1</itemQuantity>
-                            <itemValue>80</itemValue>
-                            <itemWeight>1.9</itemWeight>
-                            <itemDescription>Stilos Roj¢</itemDescription>
-                            <itemCurrency>EUR</itemCurrency>
-                        </parcelItem>
+                        <parcelItems>
+                            <parcelItem>
+                                <itemQuantity>1</itemQuantity>
+                                <itemValue>80</itemValue>
+                                <itemWeight>1.9</itemWeight>
+                                <itemDescription>Stilos Roj¢</itemDescription>
+                                <itemCurrency>EUR</itemCurrency>
+                            </parcelItem>
+                        </parcelItems>
                     </parcel>
                 </parcels>
             </consignment>
